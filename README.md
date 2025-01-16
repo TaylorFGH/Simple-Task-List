@@ -1,2 +1,5 @@
+<H1>Task List</H1>
+<hr>
+<H2>https://taylorfgh.github.io/Simple-Task-List/</H2>
 
-https://taylorfgh.github.io/Simple-Task-List/
+Task List that utilizes local storage to maintain and remember tabs after a refresh etc
