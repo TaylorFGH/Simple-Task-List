@@ -1,7 +1,8 @@
 # Task List
 
 ## Live Demo
-[Click here to view the project](https://taylorfgh.github.io/Simple-Task-List/)
+<a href="https://taylorfgh.github.io/Simple-Task-List/" target="_blank">Click here to view the project</a>
+
 
 ## Overview
 This **Task List** is a simple yet effective to-do list application that utilizes **local storage** to keep tasks even after refreshing the page. This ensures that users don't lose their tasks and can continue where they left off.
