@@ -20,7 +20,7 @@ This **Task List** is a simple yet effective to-do list application that utilize
 ## How to Use
 1. Open the application using the provided link.
 2. Enter a task in the input field and click Add Task.
-3. Click delete a task to remove it.
+3. Click delete on a task to remove it.
 4. Refresh the page and the tasks will remain stored.
 
 ## Technologies Used
